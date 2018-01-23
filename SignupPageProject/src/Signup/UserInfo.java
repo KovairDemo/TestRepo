@@ -15,7 +15,7 @@ import java.util.Scanner;
 		 
 		     Scanner in = new Scanner(System.in);
 		 
-		     //Get input String 
+		     //Get input String 1
 		     System.out.println("Enter a string: ");
 		     str = in.nextLine();
 		     System.out.println("Input String is: "+str);
