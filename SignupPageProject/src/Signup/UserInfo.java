@@ -21,7 +21,7 @@ import java.util.Scanner;
 		     System.out.println("Input String is: "+str);
 		 
 		     //Get input Integer
-		     System.out.println("Enter an integer: ");
+		     System.out.println("Enter an integer1: ");
 		     num = in.nextInt();
 		     System.out.println("Input Integer is: "+num);
 		 
